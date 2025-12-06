@@ -1,4 +1,4 @@
-# R&D Management Practice 1 (with CRUD)
+# R&D Management (with CRUD)
 
 This project is a **FileMaker-based system** for managing R&D projects and their assigned employees.  
 It demonstrates table relationships, portal usage, and scripted operations such as **Add / Edit / Delete / Search**.
